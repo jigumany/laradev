@@ -29,7 +29,7 @@
         "bootstrap-4": "^4.0.0",
         "jquery": "^3.5.0",
         "laravel-vue-pagination": "^2.3.1",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "node": "^13.3.0",
         "node-modules": "^1.0.1",
         "sweetalert2": "^9.5.3",
